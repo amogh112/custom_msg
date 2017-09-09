@@ -3,7 +3,7 @@
 import rospy
 from std_msgs.msg import String
 from pub_imu.msg import Custom_imu
-# from sensor_msgs.import NavSatFix
+# #from sensor_msgs.import NavSatFix
 
 class publishIMU(object):
 
